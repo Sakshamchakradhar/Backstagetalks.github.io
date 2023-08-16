@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #ff608c;
+    color: #242526;
+ 
+ }
+ 
+ .hi{
+     height: 15px;
+ }
+ 
+ .nav{
+     display: flex;
+     justify-content: space-between;
+     font-weight: 500px;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-left: 20px;
+ }
+ 
+ .nav a {
+     color: #242526;
+     text-decoration: none;
+     font-size: 1.25rem;
+     margin-right: 20px;
+     margin-top: 10px;
+     
+ }
+ 
+ 
+ .main{
+     height: 450px;
+    display: inline-block;
+    display: flex;
+    justify-content:center;
+   
+    
+ }
+ 
+ .main p{
+     height: 320px;
+     width: 227px;
+     margin-right: 50px;
+ }
+ 
+ .image{
+     height: 450px;
+     width: 340px;
+     background-image: url("image7.png");
+     
+ }
+ 
+ .description{
+      height: 320px;
+     width: 20%;
+     font-size: 1.25rem;
+     margin-left: 20px;
+ }
+ 
+ .description p {
+     font-weight:bold;
+     color: #242526;
+ }
+ .publish{
+     font-size: 0.75rem;
+     text-decoration: none;
+     color: #242526;
+ }
+ .privacy{
+     font-size: 1.5rem;
+     text-decoration: none;
+     color: #242526;
+     font-weight: bold;
+ }
+ .des{
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ .issue{
+         margin-top: 30px;
+ }
+ 
+ .issue h3{
+    font-size: 1.5rem;
+    font-weight: bold;
+     margin-bottom: 20px;
+      margin-left: 30px; 
+ }
+ 
+ 
+ .issue p{
+     margin-top: 20px;
+     margin-right: 100px;
+     font-weight: bold;
+     font-size: 1.25rem;
+ }
+ 
+ .issue a{
+    margin-top: 50px;
+     text-decoration: none;
+     color: white;
+ }
+ .buy{
+    font-weight: bold;
+ }
+ 
+ .menu {
+ list-style-type: none;
+ font-size: 1.5rem;
+ margin-right: 20px;
+ }
+ 
+ .menu a{
+     text-decoration: none;
+ }
+ 
+ 
+ 
